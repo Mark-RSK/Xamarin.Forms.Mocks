@@ -255,3 +255,4 @@ paket-files/
 tools/
 build/
 .nugetapikey
+\.droidres/
